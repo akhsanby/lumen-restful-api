@@ -1,0 +1,21 @@
+{
+  "name": "resources",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.9.2",
+    "axios": "^0.21.1",
+    "bootstrap": "^5.0.1",
+    "vue": "^3.0.5",
+    "vue-router": "4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.2.2",
+    "@vue/compiler-sfc": "^3.0.5",
+    "vite": "^2.3.3"
+  }
+}
