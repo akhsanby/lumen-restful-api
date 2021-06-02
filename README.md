@@ -3,7 +3,7 @@
 How to use?
 1. clone this repo
 2. create database
-3. ``` cd fruit-rest-api
+3. ``` cd lumen-restful-api ```
 3. migrate table ``` php artisan migrate ```
 4. start server ``` php -S localhost:8000 -t public ```
 5. ``` cd resources ```
